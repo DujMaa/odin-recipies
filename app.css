@@ -1,0 +1,37 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #3b3838;
+}
+
+.main {
+  margin: 30px auto;
+  width: fit-content;
+}
+
+.main h1 {
+  font-size: 45px;
+  padding: 10px;
+  text-align: center;
+  color: rgb(255, 174, 0);
+}
+
+.main ul {
+  text-decoration: none;
+  text-align: center;
+}
+
+.main a {
+  text-decoration: none;
+  color: rgb(255, 174, 0);
+  font-size: 30px;
+}
+
+.main li {
+  display: inline-block;
+  margin: 0 30px;
+}
